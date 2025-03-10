@@ -1,2 +1,2 @@
-# Tak-mCalismasi
+# TakimCalismasi
 Bu bir ekip çalışmasıdır.
